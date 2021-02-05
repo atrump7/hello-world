@@ -2,4 +2,4 @@
 My first Github Project
 
 
-I am learning to code. 
+Hello! I am learning to code.  
